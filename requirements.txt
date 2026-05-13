@@ -1,0 +1,47 @@
+# =============================================================================
+# AI-Generated Text Detection — Python Dependencies
+# =============================================================================
+# Tested on Python 3.10+ with Google Colab T4 GPU runtime.
+# To install: pip install -r requirements.txt
+# =============================================================================
+
+# Core data science
+numpy>=1.24,<2.0
+pandas>=2.0,<3.0
+scipy>=1.11
+
+# Machine learning
+scikit-learn>=1.3,<2.0
+joblib>=1.3
+
+# Statistical testing (McNemar's test)
+statsmodels>=0.14
+
+# NLP utilities
+nltk>=3.8
+
+# Datasets
+datasets>=2.14
+huggingface-hub>=0.20
+
+# Deep learning — TensorFlow (used by Notebook 04 — LSTM)
+tensorflow>=2.15,<3.0
+
+# Deep learning — PyTorch (used by Notebook 05 — DistilBERT)
+torch>=2.0,<3.0
+
+# Hugging Face Transformers (DistilBERT)
+transformers>=4.35
+accelerate>=0.24
+
+# Explainability
+lime>=0.2.0.1
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
+wordcloud>=1.9
+
+# Jupyter (only needed for local execution; pre-installed in Colab)
+jupyter>=1.0
+ipykernel>=6.25
