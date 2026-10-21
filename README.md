@@ -235,8 +235,7 @@ If you reference this work:
 ## Author
 
 **Elia Khater** — Mathematics & Data Science, USJ Beirut
-- 📧 eliakhater7@gmail.com
-- 🔗 [github.com/Elia43](https://github.com/Elia43) · [linkedin.com/in/elia-khater](https://linkedin.com/in/elia-khater)
+- 🔗 [github.com/Elia43](https://github.com/Elia43)
 
 Final project for **Introduction to Natural Language Processing**, Université Saint-Joseph (USJ), Spring 2026.
 
